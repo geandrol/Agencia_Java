@@ -1,18 +1,47 @@
-## Getting Started
+# Agencia Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório contém um projeto de uma agência desenvolvido em Java, utilizando conceitos de POO, manipulação de arquivos e banco de dados.
 
-## Folder Structure
+## 📌 Menu de Navegação
 
-The workspace contains two folders by default, where:
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Funcionalidades](#-funcionalidades)
+- [Instalação e Execução](#-instalação-e-execução)
+- [Estrutura do Projeto](#-estrutura-do-projeto)
+- [Contato](#-contato)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📌 Tecnologias Utilizadas
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🚀 Funcionalidades
 
-## Dependency Management
+- Cadastro de clientes
+- Gerenciamento de serviços
+- Controle de pagamentos
+- Relatórios e consultas
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 📦 Instalação e Execução
+
+1. Clone o repositório:
+   ```sh
+   git clone https://github.com/geandrol/Agencia_Java.git
+   ```
+2. Importe o projeto para sua IDE preferida (Eclipse, IntelliJ, NetBeans, etc.).
+3. Compile e execute o projeto.
+
+## 📂 Estrutura do Projeto
+
+```
+Agencia_Java/
+│-- src/                   # Código-fonte do projeto
+│-- README.md              # Documentação do projeto
+```
+
+## ✉️ Contato
+
+Caso tenha dúvidas ou sugestões, entre em contato:
+- GitHub: [geandrol](https://github.com/geandrol)
+- Email: [SeuEmail@example.com](geandro_a@hotmail.com)
+
+
